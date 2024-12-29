@@ -1,5 +1,5 @@
 function navigateToHome() {
-    location.href="home.html";
+    location.href="index.html";
 }
 
 function navigateToPhishing() {
